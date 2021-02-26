@@ -1,0 +1,50 @@
+h1 {font-family: 'Times New Roman', Times, serif;
+    margin-left: 45%;
+    text-shadow: 2px 2px 4px #ffffff5b;
+    }
+
+/* Style the header */
+.header {
+    padding: 10px 16px;
+    background: #555;
+    background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/05/shutterstock_359492192.jpg?w=750");
+    color: rgb(165, 164, 164)
+}
+  
+
+
+.body {
+    padding: 10px 16px;
+    background: rgb(255, 255, 255);
+    color: #000000;
+    background-image: url("https://ak.picdn.net/shutterstock/videos/8537701/thumb/1.jpg");
+    border-radius: 5%;
+    background-size: cover;
+}
+
+figure {
+display: flex;
+align-items: center;
+text-shadow: 2px 2px 4px #00000059;;
+}
+
+body {
+    background: rgb(0, 0, 0) no-repeat fixed center;
+    background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/05/shutterstock_359492192.jpg?w=750");
+}
+  
+img {border-radius: 50%; }
+
+figcaption {
+    padding-left: 2%;
+    font-family: 'Times New Roman', Times, serif; }
+
+h2 {font-family: 'Times New Roman', Times, serif; margin-left: 5%; text-shadow: 2px 2px 4px #00000059; font-size: large;}
+
+h3 {font-family: 'Times New Roman', Times, serif; margin-left: 5%; text-shadow: 2px 2px 4px #00000059; font-size: large;}
+
+h4 {font-family: 'Times New Roman', Times, serif; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;font-size: large;}
+
+p {font-family: 'Times New Roman', Times, serif; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;}
+
+ul {font-family: 'Times New Roman', Times, serif; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;}

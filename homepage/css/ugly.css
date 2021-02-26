@@ -1,0 +1,49 @@
+h1 {font-family: "Comic Sans MS", "Comic Sans", cursive;
+  margin-left: 45%;
+  text-shadow: 2px 2px 4px #ffffff5b;
+  }
+
+/* Style the header */
+.header {
+  padding: 10px 16px;
+  background: #555;
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/05/08/22/background-1799660_960_720.jpg");
+  color: rgb(251, 255, 0)
+}
+
+
+
+.body {
+  padding: 10px 16px;
+  background: rgb(255, 255, 255);
+  color: #000000;
+  border-radius: 5%;
+  background-image: url("https://dbdzm869oupei.cloudfront.net/img/sticker/preview/3824.png");
+}
+
+figure {
+display: flex;
+align-items: center;
+text-shadow: 2px 2px 4px #00000059;;
+}
+
+body {
+  background: rgb(0, 0, 0) no-repeat fixed center;
+  background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/05/shutterstock_359492192.jpg?w=750");
+}
+
+img {border-radius: 50%; }
+
+figcaption {
+  padding-left: 2%;
+  font-family: "Comic Sans MS", "Comic Sans", cursive; }
+
+h2 {font-family: "Comic Sans MS", "Comic Sans", cursive; margin-left: 5%; text-shadow: 2px 2px 4px #00000059; font-size: large;}
+
+h3 {font-family: "Comic Sans MS", "Comic Sans", cursive; margin-left: 5%; text-shadow: 2px 2px 4px #00000059; font-size: large;}
+
+h4 {font-family: "Comic Sans MS", "Comic Sans", cursive; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;font-size: large;}
+
+p {font-family: "Comic Sans MS", "Comic Sans", cursive; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;}
+
+ul {font-family: "Comic Sans MS", "Comic Sans", cursive; margin-left: 5%; text-shadow: 2px 2px 4px #00000059;}
